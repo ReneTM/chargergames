@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+     addonSteamAppID         "550"
+     addontitle              "Chargergames"
+     addonversion            ""
+     addontagline            ""
+     addonauthor             "ReneTM"
+     addonURL0               ""
+     addonDescription        ""
+}
+ 
